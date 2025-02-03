@@ -1,0 +1,2 @@
+# Shujaafx
+forex-ai-trading
